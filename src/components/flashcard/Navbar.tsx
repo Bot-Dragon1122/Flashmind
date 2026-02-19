@@ -21,7 +21,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onGoHome, onShowAnalytics, curre
               <BookOpen className="h-5 w-5 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold text-foreground tracking-tight">
-              Note2cards
+              FlashMind
             </span>
           </div>
           
